@@ -22,7 +22,8 @@
   * run ```npm install```  
 * setup domain or sub domain via cpanel as usual
 * if possible point domain (or sub) to the /public folder of laravel install  
-  * or setup sym link e.g. ```ln -s ~/www/laravelsource/public/ ~/www/subdomain``` 
+  * or setup sym link e.g. ```ln -s ~/www/laravelsource/public/ ~/www/subdomain```
+* prepare local ```.env``` file and manually put on server in root folder (not in git)    
 
 
 ## License
